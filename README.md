@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - send me an email notesenock@gmail.com
-- check out my social profiles on facebook, twitter, instagram, linkedin using name @enocksmay
+- check out my social profiles on facebook, twitter, instagram, linkedin using https://www.flowcode.com/page/enocksmay
 
 <!---
 enocksmay/enocksmay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
